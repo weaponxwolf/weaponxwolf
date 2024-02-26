@@ -21,5 +21,7 @@
 
 ![Amit Kumar Mahato's GitHub stats](https://github-readme-stats.vercel.app/api?username=weaponxwolf&show_icons=true&theme=radical&hide=stars)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weaponxwolf&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weaponxwolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
