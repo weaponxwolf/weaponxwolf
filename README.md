@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on NextJS
 - 🌱 I’m currently learning Langchain/ML and DSA
 - 💬 Ask me about Linux, WebDev, JS ,C++ ,Data Structures ,Python ,Cloud
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/amit-kumar-mahato-751bb61b6/">: in: Amit Kumar Mahato</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/amit-kumar-mahato-751bb61b6/">Amit Kumar Mahato</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love JS
 
